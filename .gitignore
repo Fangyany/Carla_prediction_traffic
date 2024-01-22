@@ -1,0 +1,15 @@
+weight_and_log_all
+weight_and_log_trafficLight
+weight_and_log_trafficLight_mapdict
+weight_and_log_trafficLight_mapdict_batchnorm
+weight_and_log_trafficLight_mapdict_yaw
+test_data_yaw.pkl
+test_data.pkl_all
+train_data_all.pkl
+train_data_yaw.pkl
+trajectories_trafficLight_yaw.pkl
+trajectories_trafficLight.pkl
+
+
+
+
